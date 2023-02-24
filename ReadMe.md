@@ -4,7 +4,7 @@
 
 la version de python est 3.11.1 et la version de pip 23.0
 
-# Installtion du module complémentaire
+# Installation du module complémentaire
 
 pip install typing
 
