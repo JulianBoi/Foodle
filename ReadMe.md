@@ -41,3 +41,8 @@ Cette application console demande à l'utilisateur d'entrer une phrase et le nom
 Je calcule la fréquence de chaque mot dans une phrase donnée en entrée, puis renvoie une liste des n mots les plus fréquents dans la phrase, triés par ordre décroissant de fréquence, et en cas d'égalité de fréquence, triés par ordre alphabétique.
 
 J'utilise une fonction python tel que sorted_words qui trie les paires (mot, fréquence) du dictionnaire freq par ordre décroissant de fréquence, puis par ordre alphabétique si des mots ont la même fréquence. La fonction sorted() renvoie une liste de paires triées.
+
+# Amelioration
+
+- Gestion des erreurs dans le code pour savoir ce qu'on envoie.
+- Faire une boucle pour relancer le programme.
